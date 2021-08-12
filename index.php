@@ -79,7 +79,7 @@ include 'layout/header.php';
                 <div class="col-md-4">
                     <div class="media">
                         <div class="iconbox iconmedium rounded-circle text-purple mr-4">
-                            <i class="fa fa-credit-card-alt"></i>
+                            <i class="fa fa-arrow-down"></i>
                         </div>
                         <div class="media-body">
                             <h5>Pembayaran Virtual</h5>
@@ -138,20 +138,6 @@ include 'layout/header.php';
             <?php endforeach; ?>
             </div>
         </div>
-    </section>
-    <section class="mobile-apps pt-5 pb-3 border-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h3>Download apps</h3>
-                    <p>Get an amazing app to make Your life easy</p>
-                </div>
-                <div class="col-md-6 text-md-right">
-                    <a href="#"><img src="./assets/img/appstore.png" height="40"></a>
-                    <a href="#"><img src="./assets/img/appstore.png" height="40"></a>
-                </div>
-            </div> <!-- row.// -->
-        </div><!-- container // -->
     </section>
     <?php
     include 'layout/footer.php';

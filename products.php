@@ -47,40 +47,7 @@ include 'db/functions.php';
                                 </form>
                             </div>
                         </div>
-                        <div class="sidebar-widget">
-                            <div class="widget-title">
-                                <h3>Categories</h3>
-                            </div>
-                            <div class="widget-content widget-categories">
-                                <ul>
-                                    <li><a href="#">Fashions</a></li>
-                                    <li><a href="#">Electronics</a>
-                                        <ul>
-                                            <li><a href="#">Hand Phone</a></li>
-                                            <li><a href="#">Laptops</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Home and Kitchen</a></li>
-                                    <li><a href="#">Baby and Toys</a></li>
-                                    <li><a href="#">Sports</a></li>
-                                    <li><a href="#">Digital Goods</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget">
-                            <div class="widget-title">
-                                <h3>Brands</h3>
-                            </div>
-                            <div class="widget-content widget-brands">
-                                <ul>
-                                    <li><a href="#">Apple</a></li>
-                                    <li><a href="#">Samsung</a></li>
-                                    <li><a href="#">Lenovo</a></li>
-                                    <li><a href="#">Asus</a></li>
-                                    <li><a href="#">Xiaomi</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-lg-9 col-md-8 col-12">
