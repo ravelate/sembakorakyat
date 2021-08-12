@@ -85,8 +85,8 @@ function createbarang($data) {
     $jumlah_terjual = htmlspecialchars($data['jumlah_terjual']);
 
     $query = "INSERT INTO `sembakorakyat`.`barang` 
-    (`nama_barang`, `keterangan`, `gambar`, `kategori`, `jumlah`, `jumlah_terjual`) 
-    VALUES ('$nama', '$keterangan', '$gambar', '$kategori', '$jumlah', '$jumlah_terjual');";
+    (`nama_barang`,`harga`, `keterangan`, `gambar`, `kategori`, `jumlah`, `jumlah_terjual`) 
+    VALUES ('$nama', '$harga', '$keterangan', '$gambar', '$kategori', '$jumlah', '$jumlah_terjual');";
     mysqli_query($connect,$query);
     return mysqli_affected_rows($connect);
 }
