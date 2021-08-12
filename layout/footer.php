@@ -6,13 +6,10 @@
                         <!-- Single Widget -->
                         <div class="single-footer about">
                             <div class="logo-footer">
-                                <i class="fa fa-shopping-bag fa-3x"></i> <span class="logo">IndoMarket</span>
+                                <i class="fa fa-shopping-bag fa-3x"></i> <span class="logo">SembakoRakyat</span>
                             </div>
-                            <p class="text">Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, magna
-                                eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor,
-                                facilisis luctus, metus.</p>
-                            <p class="call">Got Question? Call us 24/7<span><a href="tel:123456789">+0123 456
-                                        789</a></span></p>
+                            <p class="text">SembakoRakyat hadir untuk membantu masyarakat dalam membeli kebutuhan sehari hari yang murah yang pelayanan dan penggunaan nya sangat mudah dan cepat</p>
+                            <p class="call">Punya pertanyaan? Call us 24/7<span><a href="tel:123456789">+6281231234132</a></span></p>
                         </div>
                         <!-- End Single Widget -->
                     </div>
@@ -51,10 +48,10 @@
                             <!-- Single Widget -->
                             <div class="contact">
                                 <ul>
-                                    <li>NO. 342 - London Oxford Street.</li>
-                                    <li>012 United Kingdom.</li>
-                                    <li>info@indomarket.com</li>
-                                    <li>+032 3456 7890</li>
+                                    <li>NO. 32 - Jakarta utara.</li>
+                                    <li>Indonesia</li>
+                                    <li>info@sembakorakyat.com</li>
+                                    <li>+62818512048112</li>
                                 </ul>
                             </div>
                             <!-- End Single Widget -->
@@ -76,7 +73,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-12">
                             <div class="left">
-                                <p>Copyright © 2021 <a href="http://indokoding.net" target="_blank">IndoKoding.net</a> -
+                                <p>Made with Love  -
                                     All Rights Reserved.</p>
                             </div>
                         </div>
